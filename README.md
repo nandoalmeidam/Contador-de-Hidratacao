@@ -17,31 +17,25 @@ Aplicativo simples desenvolvido em React Native para auxiliar no acompanhamento 
 - Expo
 - JavaScript
 
-## Capturas de Tela
+## 📱 Capturas de Tela
 
 ### Tela Inicial
-
-![Tela Inicial](./screenshots/01_inicial.png)
+<img src="./assets/screenshots/01_inicial.png" width="250">
 
 ### Incentivo aos 5 copos
-
-![5 Copos](./screenshots/02_cincoCopos.png)
+<img src="./assets/screenshots/02_cincoCopos.png" width="250">
 
 ### Meta diária atingida
-
-![8 Copos](./screenshots/03_oitoCopos.png)
+<img src="./assets/screenshots/03_oitoCopos.png" width="250">
 
 ### Nível desbloqueado
-
-![10 Copos](./screenshots/04_dezCopos.png)
+<img src="./assets/screenshots/04_dezCopos.png" width="250">
 
 ### Marco de 50 copos
-
-![50 Copos](./screenshots/05_cinquentaCopos.png)
+<img src="./assets/screenshots/05_cinquentaCopos.png" width="250">
 
 ### Contador zerado
-
-![Zerado](./screenshots/06_zerando.png)
+<img src="./assets/screenshots/06_zerando.png" width="250">
 
 ## Objetivo
 
